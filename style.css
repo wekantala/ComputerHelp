@@ -13,7 +13,7 @@ header {
 }
 
 .logo {
-  width: 20px;
+  width: 50px;
   position: absolute;
   top: 20px;
   left: 20px;
@@ -21,6 +21,7 @@ header {
 
 .main-nav {
   margin-left: 80px;
+  padding-top: 10px;
 }
 
 .main-nav a {
